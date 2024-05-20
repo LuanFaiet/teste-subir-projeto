@@ -1,0 +1,171 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+
+}
+
+.section2 {
+    display: inline-block;
+}
+
+
+
+.link1 {
+    margin-left: 42px;
+    color: #17233D;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0.875px;
+    text-align: center;
+    width: 79px;
+    height: 21px;
+    top: 47px;
+    left: 161px;
+
+}
+
+.button1 {
+    margin-left: 32px;
+}
+
+img {
+    margin-top: 246px;
+    margin-left: 121px;
+    width: 595.18px;
+    height: 500px;
+    top: 246px;
+    left: 121px;
+    display: inline-block;
+
+}
+
+h1 {
+    width: 582px;
+    height: 164px;
+    top: 342px;
+    left: 801px;
+    font-size: 63px;
+    font-weight: 700;
+    line-height: 82px;
+    letter-spacing: 0.5961538553237915px;
+    text-align: left;
+    color: #161A49;
+
+}
+
+p {
+    width: 493px;
+    height: 99px;
+    top: 553px;
+    left: 801px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+    text-align: left;
+    color: #4B505A;
+    margin-top: 47px;
+    margin-bottom: 55px;
+
+
+}
+
+.link2 {
+    width: 112px;
+    height: 27px;
+    top: 707px;
+    left: 801px;
+    gap: 0px;
+    opacity: 0px;
+    color: #6FBF44;
+    width: 112px;
+    height: 27px;
+    top: 707px;
+    left: 801px;
+    cursor: pointer;
+
+
+}
+
+button {
+    width: 124px;
+    height: 51px;
+    top: 32px;
+    left: 420px;
+
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 1px;
+    text-align: auto;
+    color: #FFFFFF;
+    border: none;
+    background: #4cb538;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+header {
+    cursor: pointer;
+
+}
+
+@media screen and (max-width: 700px) {
+
+    .link1 {
+        display: none;
+    }
+
+    .button1 {
+        width: 109px;
+        height: 38px;
+        margin-top: 30px;
+        margin-left: 380px;
+        font-size: 18px;
+    }
+
+    .section2 {
+        margin-left: 112px;
+        margin-top: -941px;
+        text-align: center;
+        position: relative;
+        display: block;
+
+    }
+
+    .img2 {
+        margin-top: 520px;
+        margin-left: 27px;
+        width: 450px;
+        height: 500px;
+    }
+
+    h1 {
+        line-height: 51px;
+        margin-left: -147px;
+        text-align: center;
+        font-size: 47px;
+
+    }
+
+    p {
+        text-align: center;
+        font-size: 24px;
+        margin-top: -20px;
+        margin-bottom: 92px;
+        margin-left: -106px;
+        width: 480px;
+        padding: 0px 39px;
+    }
+
+    .link2 {
+        text-align: center;
+        margin-top: 24px;
+        margin-left: -5px;
+        font-size: 28px;
+     }
+
+       }
